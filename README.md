@@ -1,2 +1,5 @@
-# analytics-portfolio
-A business impact-focused data analytics portfolio showcasing SQL, ETL, advanced data cleaning, and interactive dashboards for retail and e-commerce roles. Every project demonstrates real-world business storytelling and measurable results.
+# Meenakshi Sharadha – Data Analytics Portfolio
+
+Welcome! This portfolio showcases real-world analytics projects focusing on SQL, ETL, business storytelling, and impactful dashboards for retail and e-commerce.
+
+_Projects coming soon – stay tuned!_
