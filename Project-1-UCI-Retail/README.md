@@ -1,26 +1,21 @@
-# UCI Online Retail Analysis
+# Strategic Customer Analytics
 
-Analysis of 540,000+ transactions from 2010-2011 retail dataset to uncover key revenue drivers, customer segments, and retention trends.
+**Project:** End-to-end analysis of the UCI Online Retail dataset to demonstrate customer analytics expertise.
 
-## Key Focus
+## Highlights
+- Cleaned and preprocessed 450K+ transactions using pandas (IQR-based outlier removal, data validation)  
+- Explored revenue drivers: seasonality trends, top countries, bestseller products with Seaborn  
+- Performed RFM segmentation to profile customer value  
+- Engineered a composite **Customer Value Score** and applied K-Means clustering to identify 5 actionable segments  
+- Built a churn prediction prototype (Random Forest) achieving 85%+ accuracy  
+- Derived strategic recommendations: VIP program, reactivation campaigns, cross-sell initiatives
 
-- Revenue patterns by country, product, and seasonality  
-- Customer segmentation (RFM) and VIP identification  
-- Cohort analysis for retention insights  
-- Data cleaning and outlier treatment for reliable results
+## Core Skills Demonstrated
+- Data wrangling & cleaning (pandas, NumPy)  
+- Statistical outlier detection & handling  
+- RFM analysis & feature engineering  
+- Unsupervised learning: StandardScaler, K-Means  
+- Predictive modeling basics: classification, evaluation metrics  
+- Data visualization & storytelling (Matplotlib, Seaborn)  
+- Translating analytics into business impact and ROI estimates  
 
-## Tools
-
-Python, pandas, matplotlib, seaborn, Jupyter Notebook
-
-## Contents
-
-- `01_EDA_Revenue_Customer_Product.ipynb`: Full exploratory and business insights notebook  
-
-## Usage
-
-Run the notebook with Python 3 and required libraries installed to reproduce analysis.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/meenakshisharadha) | [GitHub](https://github.com/meenakshisharadha)
