@@ -1,33 +1,37 @@
-# Meenakshi Sharadha — Data Analytics Portfolio
+# Meenakshi Sharadha — Data Science Portfolio
 
-Welcome to my data analytics portfolio. Here, I showcase hands-on projects that translate complex retail and e-commerce data into clear, business-driven actions. With advanced skills in SQL, Python, ETL pipelines, and dashboarding, I deliver value-oriented insights that drive decision-making—developed through my MSc in Business Analytics and my internship at Amazon.
+Welcome to my Data Science Portfolio. Here, I showcase hands-on projects that translate complex retail and e-commerce data into clear, business-driven actions. With advanced skills in Python, pandas, NumPy, scikit-learn, and data visualization, I deliver value-oriented insights that drive decision-making—developed through my MSc in Business Analytics and internship experience.
 
 ---
 
-## Portfolio Focus
-
-I am seeking Data Analyst opportunities where I can contribute with my expertise in:
-
-- Advanced SQL querying, robust data cleaning, and relational data modeling
-- Building end-to-end ETL workflows to transform and deliver high-quality datasets
-- Deep-diving into exploratory data analysis (EDA) and time series trend discovery
-- Crafting interactive dashboards (Tableau, Power BI) that tell a compelling data story
-- Translating analytics into actionable business recommendations for stakeholders
+## Core Competencies
+- Data cleaning, validation & ETL pipelines (pandas, NumPy)  
+- Statistical outlier detection & feature engineering  
+- Exploratory data analysis & visualization (Matplotlib, Seaborn)  
+- Customer segmentation: RFM analysis & K-Means clustering  
+- Predictive modeling fundamentals: classification, churn prediction  
+- Business storytelling: Markdown narrative, ROI-focused recommendations  
+- Version control & collaboration (Git, GitHub)
 
 ---
 
 ## Projects
 
-### Project 1: UCI Online Retail Transactions Analysis  
-**Business Challenge:**  
-Analyzed 500,000+ e-commerce transactions to reveal revenue drivers, customer segments, seasonal sales trends, and actionable strategies for improved retention and international growth.  
-[See project details →](./Project-1-UCI-Retail)
+### Strategic Customer Analytics  
+**Dataset:** UCI Online Retail (450K+ transactions)  
+**Key Deliverables:**  
+- IQR-based outlier removal, data quality checks  
+- Revenue trend analysis: seasonality, country & product drivers  
+- RFM segmentation & composite customer value scoring  
+- K-Means clustering into 5 actionable segments  
+- Churn risk prototype (Random Forest, 85%+ accuracy)  
+- Executive-ready visualizations & strategic recommendations  
+[Explore Strategic Customer Analytics →](./Strategic-Customer-Analytics)
 
 ---
 
-## Get in Touch
+## Connect with Me
+- LinkedIn: https://www.linkedin.com/in/meenakshisharadha  
+- GitHub: https://github.com/meenakshisharadha  
 
-- [LinkedIn](https://www.linkedin.com/in/meenakshisharadha)  
-- [GitHub](https://github.com/meenakshisharadha)  
-
-**Thank you for visiting — connect to discuss how I can support your team in turning raw data into business advantage!**
+Thank you for visiting—let’s turn data into your next competitive advantage!  
