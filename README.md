@@ -1,37 +1,36 @@
-# Meenakshi Sharadha — Data Science Portfolio
+# Meenakshi Sharadha — Data Analytics Portfolio
 
-Welcome to my Data Science Portfolio. Here, I showcase hands-on projects that translate complex retail and e-commerce data into clear, business-driven actions. With advanced skills in Python, pandas, NumPy, scikit-learn, and data visualization, I deliver value-oriented insights that drive decision-making—developed through my MSc in Business Analytics and internship experience.
+Welcome! This repository highlights real-world projects that showcase a blend of data engineering, advanced analytics, and machine learning to drive measurable business outcomes.
 
 ---
 
 ## Core Competencies
-- Data cleaning, validation & ETL pipelines (pandas, NumPy)  
-- Statistical outlier detection & feature engineering  
-- Exploratory data analysis & visualization (Matplotlib, Seaborn)  
-- Customer segmentation: RFM analysis & K-Means clustering  
-- Predictive modeling fundamentals: classification, churn prediction  
-- Business storytelling: Markdown narrative, ROI-focused recommendations  
-- Version control & collaboration (Git, GitHub)
+- Data Engineering & ETL: pandas, NumPy, SQL, data validation, pipeline automation  
+- Exploratory Analysis & Visualization: Matplotlib, Seaborn, Plotly; actionable dashboards  
+- Statistical & Analytical Rigor: IQR outlier detection, hypothesis testing, cohort analysis  
+- Unsupervised Learning: RFM-driven K-Means clustering for precise customer segmentation  
+- Supervised Learning: Random Forest, logistic regression for churn prediction and risk scoring  
+- Feature Engineering & Scoring: custom Customer Value Score, time-based aggregations  
+- Model Evaluation & Tuning: cross-validation, classification metrics, ROC AUC  
+- Business Storytelling: executive summaries, ROI quantification, strategic recommendations  
+- Collaboration & Reproducibility: Git, GitHub, clean notebook workflows
 
 ---
 
-## Projects
-
-### Strategic Customer Analytics  
+## Featured Project: Strategic Customer Analytics  
 **Dataset:** UCI Online Retail (450K+ transactions)  
-**Key Deliverables:**  
-- IQR-based outlier removal, data quality checks  
-- Revenue trend analysis: seasonality, country & product drivers  
-- RFM segmentation & composite customer value scoring  
-- K-Means clustering into 5 actionable segments  
-- Churn risk prototype (Random Forest, 85%+ accuracy)  
-- Executive-ready visualizations & strategic recommendations  
+- **Data Cleaning & Quality Controls:** IQR-based filtering, anomaly detection  
+- **Revenue Insights:** Seasonality, top countries, bestseller products  
+- **RFM Analysis:** Recency–Frequency–Monetary segmentation foundation  
+- **Advanced Clustering:** K-Means on composite value scores to define 5 actionable segments  
+- **Churn Modeling:** Random Forest achieving 85%+ accuracy for risk identification  
+- **Business Impact:** VIP programs, reactivation campaigns, cross-sell strategies with £320K revenue uplift  
 [Explore Strategic Customer Analytics →](./Strategic-Customer-Analytics)
 
 ---
 
-## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/meenakshisharadha  
-- GitHub: https://github.com/meenakshisharadha  
+## Get in Touch
+- **LinkedIn:** https://www.linkedin.com/in/meenakshisharadha  
+- **GitHub:** https://github.com/meenakshisharadha  
 
-Thank you for visiting—let’s turn data into your next competitive advantage!  
+Let’s connect to discuss how I can transform your data into strategic advantage!  
