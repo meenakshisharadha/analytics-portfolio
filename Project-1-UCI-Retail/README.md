@@ -1,21 +1,35 @@
 # Strategic Customer Analytics
 
-**Project:** End-to-end analysis of the UCI Online Retail dataset to demonstrate customer analytics expertise.
+A comprehensive end-to-end project on the UCI Online Retail dataset showcasing advanced analytics and machine learning for actionable business outcomes.
 
-## Highlights
-- Cleaned and preprocessed 450K+ transactions using pandas (IQR-based outlier removal, data validation)  
-- Explored revenue drivers: seasonality trends, top countries, bestseller products with Seaborn  
-- Performed RFM segmentation to profile customer value  
-- Engineered a composite **Customer Value Score** and applied K-Means clustering to identify 5 actionable segments  
-- Built a churn prediction prototype (Random Forest) achieving 85%+ accuracy  
-- Derived strategic recommendations: VIP program, reactivation campaigns, cross-sell initiatives
+## Project Highlights
+- **Data Engineering & ETL:** Automated data ingestion, validation, and cleaning using pandas and NumPy  
+- **Outlier Detection:** Robust IQR-based filtering of Quantity and UnitPrice anomalies  
+- **Exploratory Analysis:** Time series seasonality, country & product revenue drivers with Seaborn visualizations  
+- **RFM Segmentation:** Recency–Frequency–Monetary analysis to quantify customer value  
+- **Feature Engineering:** Custom Customer Value Score combining RFM metrics for deeper insights  
+- **Unsupervised Learning:** K-Means clustering to identify 5 distinct customer segments  
+- **Supervised Learning:** Random Forest churn risk model achieving 85%+ accuracy  
+- **Model Evaluation & Tuning:** Cross-validation, classification metrics, and ROC AUC analysis  
+- **Business Storytelling:** Executive-ready Markdown narrative, figure captions, and ROI-focused recommendations  
+- **Reproducibility:** Clean, well-structured Jupyter notebook with clear section headings and comments  
 
-## Core Skills Demonstrated
-- Data wrangling & cleaning (pandas, NumPy)  
-- Statistical outlier detection & handling  
-- RFM analysis & feature engineering  
-- Unsupervised learning: StandardScaler, K-Means  
-- Predictive modeling basics: classification, evaluation metrics  
-- Data visualization & storytelling (Matplotlib, Seaborn)  
-- Translating analytics into business impact and ROI estimates  
+## Key Skills Demonstrated
+- Python (pandas, NumPy, scikit-learn)  
+- Data visualization (Matplotlib, Seaborn)  
+- Statistical analysis & hypothesis-driven insights  
+- Clustering & classification machine learning techniques  
+- Feature engineering & scoring methodologies  
+- Model validation & performance metrics interpretation  
+- Clear, concise documentation and strategic business recommendations  
 
+## Outcome & Impact
+- Identified high-value and “VIPs” for targeted VIP programs  
+- Developed an 85% accurate churn prediction model for proactive retention  
+- Uncovered cross-sell opportunities from top product combinations  
+- Quantified potential £320K revenue uplift through data-driven strategies  
+
+---
+
+**Ready to drive data-backed decisions?**  
+Explore the **Customer_Lifetime_Value_Segmentation.ipynb** notebook for full methodology, code, and insights.
