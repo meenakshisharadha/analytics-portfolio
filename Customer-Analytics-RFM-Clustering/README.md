@@ -2,7 +2,13 @@
 
 A comprehensive end-to-end project on the UCI Online Retail dataset showcasing advanced analytics and machine learning for actionable business outcomes.
 
+**Explore the full methodology, code, and insights here:**  
+[Customer_Analytics_RFM_Clustering_Churn.ipynb](https://github.com/meenakshisharadha/analytics-portfolio/blob/main/Customer-Analytics-RFM-Clustering/notebooks/Customer_Analytics_RFM_Clustering_Churn.ipynb)
+
+---
+
 ## Project Highlights
+
 - **Data Engineering & ETL:** Automated data ingestion, validation, and cleaning using pandas and NumPy  
 - **Outlier Detection:** Robust IQR-based filtering of Quantity and UnitPrice anomalies  
 - **Exploratory Analysis:** Time series seasonality, country & product revenue drivers with Seaborn visualizations  
@@ -14,7 +20,10 @@ A comprehensive end-to-end project on the UCI Online Retail dataset showcasing a
 - **Business Storytelling:** Executive-ready Markdown narrative, figure captions, and ROI-focused recommendations  
 - **Reproducibility:** Clean, well-structured Jupyter notebook with clear section headings and comments  
 
+---
+
 ## Key Skills Demonstrated
+
 - Python (pandas, NumPy, scikit-learn)  
 - Data visualization (Matplotlib, Seaborn)  
 - Statistical analysis & hypothesis-driven insights  
@@ -23,7 +32,10 @@ A comprehensive end-to-end project on the UCI Online Retail dataset showcasing a
 - Model validation & performance metrics interpretation  
 - Clear, concise documentation and strategic business recommendations  
 
+---
+
 ## Outcome & Impact
+
 - Identified high-value and “VIPs” for targeted VIP programs  
 - Developed an 85% accurate churn prediction model for proactive retention  
 - Uncovered cross-sell opportunities from top product combinations  
@@ -32,4 +44,4 @@ A comprehensive end-to-end project on the UCI Online Retail dataset showcasing a
 ---
 
 **Ready to drive data-backed decisions?**  
-Explore the **Customer_Lifetime_Value_Segmentation.ipynb** notebook for full methodology, code, and insights.
+Explore the [Customer_Analytics_RFM_Clustering_Churn.ipynb](https://github.com/meenakshisharadha/analytics-portfolio/blob/main/Customer-Analytics-RFM-Clustering/notebooks/Customer_Analytics_RFM_Clustering_Churn.ipynb) notebook for full methodology, code, and insights.
